@@ -132,6 +132,7 @@ text-align: center;
 font-size: 24px;
 font-weight: 600;
 /* justify-items: center; */
+margin-right: 100px;
 }
 .ant{
     width: 88px;
@@ -143,6 +144,7 @@ flex-shrink: 0;
 text-align: center;
 font-size: 24px;
 font-weight: 600;
+margin-right: 100px;
 
 }
 .language{
@@ -171,12 +173,15 @@ margin-bottom: 124px;
 font-size: 40px;
 font-weight: 800;
 text-align: center;
+margin-top: 200px;
+margin-left: 50px;
 }
 .point{
     color: rgba(39, 39, 39, 0.60);
 text-align: center;
 font-size: 18px;
 font-weight: 400;
+margin-left: 50px;
 }
 .enime{
    text-align: center;
@@ -188,6 +193,7 @@ background: #E55473;
 color: #FFF;
 font-size: 20px;
 font-weight: 700;
+margin-left: 250px;
 }
 .regula{
     border: 10px;
@@ -195,4 +201,88 @@ font-weight: 700;
     width: 218px;
 height: 320px;
 background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.question{
+    text-align: center;
+    justify-content: center;
+    
+}
+.rain{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+.facebook{
+/* width: 594px; */
+padding-bottom: 15px;
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+
+}
+.amount{
+    display: flex;
+    margin-left: 200px;
+    gap: 25px;
+    margin-bottom: 20px;
+}
+.gm{
+    width: 342px;
+height: 396px;
+}
+.bm{
+    width: 342px;
+height: 396px;
+}
+.lm{
+    width: 342px;
+height: 396px;
+}
+.dl{
+    width: 342px;
+height: 396px;
+}
+.leo{
+  background-image: url('./Rectangle\ 9.png');
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 80px;
+    margin-left: 210px;
+    margin-right: 150px;
+    padding: 70px;
+}
+.math{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+text-align: center;
+
+}
+.empty{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+text-align: center;
+
+}
+.record{
+    width: 500px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+padding: 10px;
+
+}
+.laptop{
+    width: 150px;
+height: 64px;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
 }
