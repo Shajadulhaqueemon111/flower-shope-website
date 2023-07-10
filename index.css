@@ -105,3 +105,52 @@ text-align: center;
 font-size: 24px;
 font-weight: 700;
 }
+.origin{
+    display: flex;
+    justify-content: center;
+    /* justify-items: center; */
+    margin-top: 100px;
+    gap: 60px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    padding:80px ;
+   box-shadow: 10px;
+   /* border-bottom-width: 1440px; */
+   margin-left: 240px;
+   margin-right: 240px;
+   margin-bottom: 128px;
+}
+.construct{
+    width: 88px;
+    height: 88px; 
+  
+}
+.true{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-size: 24px;
+font-weight: 600;
+/* justify-items: center; */
+}
+.ant{
+    width: 88px;
+height: 88px;
+flex-shrink: 0;
+}
+.rose{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-size: 24px;
+font-weight: 600;
+
+}
+.language{
+    width: 88px;
+height: 88px;
+}
+.book{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-size: 24px;
+font-weight: 600;
+}
