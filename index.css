@@ -7,7 +7,7 @@ background: rgba(229, 84, 115, 0.10);
 }
 .title{
 width: 708px;
-font-size: 65px;
+font-size: 55px;
 font-weight: 800;
 }
 .description{
@@ -224,8 +224,8 @@ line-height: 30px;
 }
 .amount{
     display: flex;
-    margin-left: 200px;
-    gap: 25px;
+    margin-left: 300px;
+    gap: 30px;
     margin-bottom: 20px;
 }
 .gm{
