@@ -121,6 +121,43 @@ font-weight: 700;
    margin-right: 240px;
    margin-bottom: 128px;
 }
+.gonder{
+    display: flex;
+    justify-content: center;
+    background-color: #111010;
+    color:#FFF;
+    justify-items: center;
+    gap: 50px;
+}
+.habit{
+    margin-bottom: 20px;
+    
+}
+.gonder>ul{
+    display: flex;
+    gap:60px;
+    margin-top: 20px;
+    list-style: none;
+}
+.e:hover{
+    color: #E55473;
+    font-size: 20px;
+}
+.f:hover{
+color: #E55473;
+font-size: 20px;
+}
+.g:hover{
+ color: #E55473;
+ font-size: 20px;
+}
+.focus{
+    color: #E55473;
+}
+.concept{
+    font-size: 20px;
+    background-color: #E55473;
+}
 .construct{
     width: 88px;
     height: 88px; 
